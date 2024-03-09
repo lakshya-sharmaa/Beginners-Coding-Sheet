@@ -23,10 +23,10 @@ I'm using a beginner coding sheet (located in the root directory as [BEGINNER'S 
 ## Repository Navigation
 Feel free to explore the folders corresponding to each language to find my solutions. You can click on the links below to directly access the solutions:
 
-- C Solutions
-- Python Solutions
-- JavaScript Solutions
-- Java Solutions
+- [C Solutions](c_programs/)
+- [Python Solutions](python_scripts/)
+- [JavaScript Solutions](javascript_code/)
+- [Java Solutions](java_programs/)
 
 ## Contribution
 As a beginner, I'm open to feedback and suggestions! If you have any tips, improvements, or alternative solutions to the problems I've solved, please feel free to create issues or pull requests.
