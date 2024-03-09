@@ -18,7 +18,7 @@ I've structured my learning path to cover the following languages:
 - **java_programs:** For Java solutions.
 
 ## Coding Sheet
-I'm using a beginner coding sheet (located in the root directory as ) to guide my learning. Each section of the sheet corresponds to a programming topic, and I aim to solve the associated questions in each language.
+I'm using a beginner coding sheet (located in the root directory as [BEGINNER'S CODING SHEET.PDF](https://github.com/lakshya-sharmaa/Beginners-Coding-Sheet/blob/main/BEGINNER'S%20CODING%20SHEET.pdf) ) to guide my learning. Each section of the sheet corresponds to a programming topic, and I aim to solve the associated questions in each language.
 
 ## Repository Navigation
 Feel free to explore the folders corresponding to each language to find my solutions. You can click on the links below to directly access the solutions:
