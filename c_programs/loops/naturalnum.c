@@ -7,8 +7,16 @@ int main(void)
 {
     int n;
     int total = 0;
-    printf("Enter the number: ");
-    scanf("%i", &n);
+
+    do {
+        printf("Enter a positive integer for N: ");
+        scanf("%i", &n);
+
+        if (n <= 0) {
+            printf("Please enter a valid positive integer.\n");
+        }
+
+    } while (n <= 0);
 
     for ( int i = 1; i <= n; i++)
     {
