@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Write a Program to Multiply two decimal Numbers entered by User
 int main(void)
 {
     int a, b;

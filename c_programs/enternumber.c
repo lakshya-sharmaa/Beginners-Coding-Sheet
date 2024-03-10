@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//  Write a Program to Print Integer Number Entered by User
 int main(void)
 {
     int num;
