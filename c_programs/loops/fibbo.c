@@ -8,7 +8,7 @@ int main(void)
     int first = 0, second = 1, next;
     do
     {
-        printf("Enter The Number: ");
+        printf("Enter The Term: ");
         scanf("%i", &a);
 
         if (a <= 0)
