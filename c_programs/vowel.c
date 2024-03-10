@@ -10,7 +10,8 @@ int main(void)
    
    lowercaseCheck = tolower(alphab);
 
-   if( lowercaseCheck == 'a' || lowercaseCheck == 'e' || lowercaseCheck == 'i' || lowercaseCheck == 'o' || lowercaseCheck == 'u')
+   if ( (lowercaseCheck >= 'a' && lowercaseCheck <= 'z') && 
+   (lowercaseCheck == 'a' || lowercaseCheck == 'e' || lowercaseCheck == 'i' || lowercaseCheck == 'o' || lowercaseCheck == 'u'))
    {
     printf("%c is a vowel\n", alphab);
    }
