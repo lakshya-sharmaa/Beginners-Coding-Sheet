@@ -20,4 +20,6 @@ int main(void)
     }
 
     printf("GCD or HCF: %i\n", gcd);
+    
+    return 0;
 }
