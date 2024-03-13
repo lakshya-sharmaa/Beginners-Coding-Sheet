@@ -59,6 +59,5 @@ void primenum(int a, int b)
         {
             printf("Prime Numbers are: %i\n", i );
         }
-        // printf("\n");
     }
 }
